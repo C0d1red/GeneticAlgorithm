@@ -1,4 +1,4 @@
-# genetic_algorithm
+# GeneticAlgorithm
 Genetic algorithm for searching target string.
 - User set target string
 - User can set parametres or choose default
